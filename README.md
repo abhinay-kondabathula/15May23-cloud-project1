@@ -1,5 +1,5 @@
 # 15May23-cloud-projects
-## Project1: Basic commam=nds in Linux
+## Project1: Basic commands in Linux
 ## Project2 : Create an ec2 instance to host apache web server using its public ip.
 ### My public ip: 3.89.98.191
 ### Just copy the above ip-address and paste in new chrome tab and verify.
