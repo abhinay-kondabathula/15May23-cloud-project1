@@ -9,4 +9,5 @@
 ## Project 3(b): Demonstrate Auto Scaling as accordence with cpu utilization : min-2 desired-2 max-5.
 ## Project 4: Docker 
 ## project 5 : Kubernetes
+## project 6 : Git Basic Commands
 
